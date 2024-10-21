@@ -9,5 +9,6 @@ I mostly work with:
 
 Past projects:
 * [automodbot](https://github.com/officialtroller/automodbot) A simple auto mod Discord Bot that you can setup through simple commands.
+* [youtube-music-application](https://github.com/officialtroller/youtube-music-application)  A small Electron Application featuring [Youtube Music](https://music.youtube.com/) as App with Discord Activity.
 
   You can find other small projects on my [Discord Server](discord.gg/JFCXza3tnd) too.
